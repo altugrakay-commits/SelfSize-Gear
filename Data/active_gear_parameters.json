@@ -1,0 +1,12 @@
+{
+    "material_limits": {
+        "yield_strength_mpa": 1051.164343059063,
+        "allowable_contact_mpa": 747.956531047821,
+        "allowable_bending_mpa": 617.4906901717186
+    },
+    "gear_dimensions": {
+        "target_hardness_hb": 398.64344334602356,
+        "face_width_mm": 13.86,
+        "module_value": 2.0
+    }
+}

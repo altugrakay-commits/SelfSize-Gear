@@ -1,0 +1,28 @@
+# Byte-compiled  optimized  DLL objects
+__pycache__
+.py[cod]
+$py.class
+
+# Data & Quarantined Anomalies (Keep the folder structure, ignore the files)
+Data
+!Data.gitkeep
+# If you want to include the template dataset, uncomment the line below
+# !Dataself_size_gear.csv
+
+# Local ML Model Assets & Configurations
+.keras
+.h5
+.json
+!package.json
+
+# CAD Outputs & Diagnostic Plots
+Output
+plots
+.ipt
+.iam
+
+# IDE Environments and System Files
+.vscode
+.idea
+.DS_Store
+Thumbs.db
