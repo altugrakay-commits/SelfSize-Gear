@@ -31,6 +31,6 @@ To execute the automation pipeline, the host system must run a dual-runtime envi
 ## 3. Proof of Concept
 The successful generation of a verified 3D spur gear part asset—driven completely by physics-bound material predictions via the automated API pipeline—is illustrated below:
 
-![Automated 3D Geometry Proof of Concept](Screenshot%202026-06-30%20121346.jpg)
+![Automated 3D Geometry Proof of Concept](proof_of_concept.jpg)
 
 *Figure 1.1: Parametric 3D solid model generated in Autodesk Inventor via the continuous COM point-chaining sketch routine.*
